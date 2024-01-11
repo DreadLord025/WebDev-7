@@ -1,0 +1,5 @@
+DB_HOST='localhost'
+DB_PORT=5432
+DB_USERNAME='postgres'
+DB_PASSWOR='748159263'
+DB_NAME='itshop'
